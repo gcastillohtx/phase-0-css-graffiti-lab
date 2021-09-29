@@ -1,1 +1,21 @@
-/* write your override styles here */
+#wall .tag-1 {
+display: none;
+}
+body #wall #tag-2 {
+display: none;
+}
+body div#wall #tag-3.slick {
+display: none;
+}
+#wall .parent #tag-4 {
+display: none;
+}
+body div#wall .parent #tag-5.slick {
+display: none;
+}
+comment -In many ways, they'll miss the good old days
+Someday, someday
+Yeah, it hurts to say, but I want you to stay
+Sometimes, sometimes
+
+
